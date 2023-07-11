@@ -23,9 +23,13 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello React Rails <a name="about-project"></a>
+# 📖 Rails Back-End <a name="about-project"></a>
 
-**Hello React Rails** is an implementation of Ruby on Rails and React-Redux with webpack
+**Rails Back-End** is an API back-end that will show a greeting message in each request
+
+It is part of a larger project. You can find the Front End in:
+
+https://github.com/jaimevillegas/hello-react-front-end
 
 - It shows a random greeting
 
@@ -94,7 +98,7 @@ In order to run this project you need to:
 Clone the repo into your local machine:
 
 ```bash
-git clone https://github.com/dicodiaz/hello-rails-react.git
+git clone https://github.com/dicodiaz/hello-rails-back-end.git
 ```
 
 Install the dependencies using bundler:
